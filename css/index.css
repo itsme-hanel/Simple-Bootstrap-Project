@@ -1,0 +1,58 @@
+.bg-coffee1{
+    background-color: #C9B194;
+}
+.bg-cream{
+    background-color: #EADBC8;
+}
+.bg-cream2{
+    background-color: #664343;
+}
+.text-brown1{
+    color: #543310;
+}
+.text-brown2{
+    color: #A67B5B;
+}
+.text-brown3{
+    color: #EADBC8;
+}
+.text-cream{
+    color: #664343;
+}
+.text-cream2{
+    color: #FFF0D1;
+}
+.text-cream3{
+    color: #EADBC8;
+}
+.text-choko{
+    color: #D1512D;
+}
+.nav-space{
+    margin-right: 50px;
+}
+.btn-coffee{
+    background-color: #603F26;
+    color: #F1E5D1;
+}
+.navbar .nav-link {
+  color: #543310;
+}
+
+.navbar .nav-link:hover {
+  color: #C19A6B; 
+}
+
+.navbar .dropdown-item{
+    color: #543310;
+    font-weight: bold;
+}
+.card-img {
+  height: 100%;
+  object-fit:cover;
+}
+.info .btn:hover{
+    border: 2px solid #543310;
+    color: #543310;
+    font-weight: bold;
+}
